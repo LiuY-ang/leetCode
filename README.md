@@ -1,1 +1,2 @@
 # leetCode
+mergeSortedArray1.py代码是我的另外一种思路，但是这种思路并不符合题目要求。我误提交到github了
